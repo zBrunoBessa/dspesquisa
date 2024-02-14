@@ -1,4 +1,4 @@
-package com.brunobessa.demo;
+package com.brunobessa.dspesquisa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
