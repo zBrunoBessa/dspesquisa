@@ -21,7 +21,7 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL ='http://191.252.221.29:8080'
+const BASE_URL ='http://bessadev.com.br/back'
 
 const Charts = () => {
     const [barChartData, setBarChartData] = useState<BarChartData[]>([]);

@@ -7,7 +7,7 @@ import Pagination from './Pagination';
 import Filters from '../../components/Filters';
 
 
-const BASE_URL ='http://191.252.221.29:8080'
+const BASE_URL ='http://bessadev.com.br/back'
 
 const Records = () =>  {
     const [ recordsResponse, setRecordsResponse] = useState<RecordsReponse>();
